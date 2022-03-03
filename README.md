@@ -27,6 +27,7 @@
 ### **特别致谢**
 
 -   感谢第一时间在社区中为我们反馈意见的朋友和开发者（郭悦@亚马逊云科技、陈源@Apple Cloud）
--   在项目组启动阶段积极贡献的：陈阳、Cici、[Fenbox](https://github.com/fenbox)、[Sunny](https://github.com/sunshineg)、[顾业鸣](https://github.com/gymgym1212)、[江波](https://github.com/jiangbonadia)、[Joyqi](https://github.com/joyqi)、林青、[刘天栋 Ted](https://github.com/tedliu1)、刘源 Leo、Ming、倩芸、单致豪 Mark、[王伟](https://github.com/will-ww)、[夏小雅](https://github.com/xiaoya-Esther)、辛庆 Cynthia、詹钰、[赵生宇 Frank](https://github.com/frank-zsy)、[庄表伟](https://github.com/zhuangbiaowei)、[沈唁](https://github.com/sy-records)、[LinuxSuRen](https://github.com/linuxsuren)
+-   在项目组启动阶段积极贡献的：陈阳、Cici、[Fenbox](https://github.com/fenbox)、[Sunny](https://github.com/sunshineg)、[顾业鸣](https://github.com/gymgym1212)、[江波](https://github.com/jiangbonadia)、[Joyqi](https://github.com/joyqi)、林青、[刘天栋 Ted](https://github.com/tedliu1)、刘源 Leo、Ming、倩芸、单致豪 Mark、[王伟](https://github.com/will-ww)、[夏小雅](https://github.com/xiaoya-Esther)、辛庆 Cynthia、詹钰、[赵生宇 Frank](https://github.com/frank-zsy)、[庄表伟](https://github.com/zhuangbiaowei)、[沈唁](https://github.com/sy-records)、[LinuxSuRen](https://github.com/linuxsuren)、
+[dashuai](https://github.com/shuashuai)、楚云、马玮、娅迪
 
 ![合作社区](https://image-static.segmentfault.com/289/991/2899913862-621f03861826c)
